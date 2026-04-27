@@ -1,16 +1,16 @@
 # Introduction to Simulink for System Modeling and Simulation
 
 ## Abstract
-In this session you will learn the basics of Simulink for modeling, simulating, and analyzing multidomain dynamical systems. You will see how to build simulation models using Simulink’s block diagramming interface, customizable set of libraries, and connectivity to MATLAB.   Key highlights include:
+What essential/industry-ready skills enable students to transition from classrooms to tackling real-world engineering challenges. This workshop introduces the mindset and the practical application skills modern engineers rely on - systems thinking, rapid experimentation, and the ability to model and simulate designs before production. Whether you’re an educator preparing students for industry, a student developing project-ready skills, or a researcher looking to prototype ideas quickly, the principles of Model-Based Design (MBD) apply directly to your work.
 
-- Introduction to Simulink 
-- Modeling and simulating multidomain physical systems
-- Overview of control system design and tuning
-- Viewing simulation results 
-- Examples of different Simulink applications 
-- How to get started with Simulink
+Through live demonstrations and hands-on exercises, MathWorks engineers will show how Simulink®—the platform for Model-Based Design helps engineers design, test, and iterate rapidly. You’ll also learn how to start building industry-ready skills today to create scalable, maintainable, and high-performance systems.
 
-This repository contains the files used within the session to view or follow along with.
+## Highlights
+
+- Understand why Model-Based Design is widely used across industry and how it accelerates development and time to market.
+- Explore applications of MBD in electric vehicles, UAVs, autonomous systems, renewable energy, and wireless networks
+- Gain a hands-on introduction to Simulink as the industry-standard platform for modeling, simulation, and system-level design
+- Access curated learning paths and hands-on resources to build your Simulink foundations for teaching, student projects, and research
 
 ## Exercises/Demos
 

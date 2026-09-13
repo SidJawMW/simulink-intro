@@ -1,15 +1,16 @@
 # Building Industry-Ready Skills with Model-Based Design, Simulink, and Agentic AI
 
 ## Abstract
-What essential/industry-ready skills enable students to transition from classrooms to tackling real-world engineering challenges. This workshop introduces the mindset and the practical application skills modern engineers rely on - systems thinking, rapid experimentation, and the ability to model and simulate designs before production. Whether you’re an educator preparing students for industry, a student developing project-ready skills, or a researcher looking to prototype ideas quickly, the principles of Model-Based Design (MBD) apply directly to your work.
+What essential/industry-ready skills enable students to transition from classrooms to tackling real-world engineering challenges? This workshop introduces the mindset and the practical application skills modern engineers rely on - systems thinking, rapid experimentation, and the ability to model and simulate designs before production.
 
-Through live demonstrations and hands-on exercises, MathWorks engineers will show how Simulink®—the platform for Model-Based Design helps engineers design, test, and iterate rapidly. You’ll also learn how to start building industry-ready skills today to create scalable, maintainable, and high-performance systems.
+Through live demonstrations and hands-on exercises, MathWorks engineers will show how Simulink®—the platform for Model-Based Design helps engineers design, test, and iterate rapidly. You’ll also learn how to start building the necessary skills today to create scalable, maintainable, and high-performance systems.
 
 ## Highlights
 
 - Understand why Model-Based Design is widely used across industry and how it accelerates development and time to market.
 - Explore applications of MBD in electric vehicles, UAVs, autonomous systems, renewable energy, and wireless networks
 - Gain a hands-on introduction to Simulink as the industry-standard platform for modeling, simulation, and system-level design
+- Discover how you can use Simulink Copilot (GenAI assistant) and connect Simulink with Agentic AI workflows
 - Access curated learning paths and hands-on resources to build your Simulink foundations for teaching, student projects, and research
 
 ## Exercises/Demos

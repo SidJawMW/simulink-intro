@@ -1,4 +1,4 @@
-# From Classroom to Industry: Exploring Model-Based Design with Simulink
+# Building Industry-Ready Skills with Model-Based Design, Simulink, and Agentic AI
 
 ## Abstract
 What essential/industry-ready skills enable students to transition from classrooms to tackling real-world engineering challenges. This workshop introduces the mindset and the practical application skills modern engineers rely on - systems thinking, rapid experimentation, and the ability to model and simulate designs before production. Whether you’re an educator preparing students for industry, a student developing project-ready skills, or a researcher looking to prototype ideas quickly, the principles of Model-Based Design (MBD) apply directly to your work.
